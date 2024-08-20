@@ -1,9 +1,6 @@
 # Docker Cookbook
 
-[![CI State](https://github.com/sous-chefs/docker/workflows/ci/badge.svg)](https://github.com/sous-chefs/docker/actions?query=workflow%3Aci)
-[![OpenCollective](https://opencollective.com/sous-chefs/backers/badge.svg)](#backers)
-[![OpenCollective](https://opencollective.com/sous-chefs/sponsors/badge.svg)](#sponsors)
-[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
+
 
 The Docker Cookbook provides resources for installing docker as well as building, managing, and running docker containers.
 
