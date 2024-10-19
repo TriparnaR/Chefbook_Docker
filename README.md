@@ -2,7 +2,7 @@
 
 
 
-The Docker Cookbook provides resources for installing docker as well as building, managing, and running docker containers.
+The Docker Cookbook provides resources for installing docker as well as building, managing , and running docker containers.
 
 ## Scope
 
